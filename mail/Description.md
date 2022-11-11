@@ -1,8 +1,8 @@
 # Description
-  -Mailing console Application using Files;
-  -Stored datas using only inner HashMap;
-  -Not following any design pattern, a single class for operation and another class having main method;
-  -On begining, HashMap load datas from files.
+  - Mailing console Application using Files;
+  - Stored datas using only inner HashMap;
+  - Not following any design pattern, a single class for operation and another class having main method;
+  - On begining, HashMap load datas from files.
 
 # Features :
   - Can create new account for each user
