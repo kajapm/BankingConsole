@@ -1,8 +1,8 @@
-package view;
+package com.kaja.cricketcalculator.view;
 
 import java.util.Scanner;
 
-import controller.InputOperations;
+import com.kaja.cricketcalculator.controller.InputOperations;
 
 public class View {
 	private InputOperations inputOperations;
