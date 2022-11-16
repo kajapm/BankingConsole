@@ -1,4 +1,4 @@
-package view;
+package com.kaja.flightticketbooking.view;
 
 public class FlightReservation {
 	public static void main(String[] args) {
