@@ -2,11 +2,11 @@ package controller;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import model.Batsman;
-import model.Bowler;
-import model.TeamScore;
-import repositary.CricketDatabase;
-import view.View;
+import com.kaja.cricketcalculator.model.Batsman;
+import com.kaja.cricketcalculator.model.Bowler;
+import com.kaja.cricketcalculator.model.TeamScore;
+import com.kaja.cricketcalculator.repositary.CricketDatabase;
+import com.kaja.cricketcalculator.view.View;
 
 public class InputOperations {
 	View view;
