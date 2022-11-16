@@ -1,9 +1,9 @@
-package repositary;
+package com.kaja.flightticketbooking.repositary;
 
 import java.util.ArrayList;
-import model.Bookings;
-import model.Flight;
-import model.Passenger;
+import com.kaja.flightticketbooking.model.Bookings;
+import com.kaja.flightticketbooking.model.Flight;
+import com.kaja.flightticketbooking.model.Passenger;
 
 public class FlightReservationDatabase {
 	static private FlightReservationDatabase flightReservationDatabase = null;
