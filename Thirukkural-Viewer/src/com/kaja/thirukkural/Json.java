@@ -1,4 +1,4 @@
-package com.thirukkural;
+package com.kaja.thirukkural;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
