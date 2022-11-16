@@ -1,4 +1,4 @@
-package model;
+package com.kaja.flightticketbooking.model;
 
 public class Passenger {
 	private String name;
