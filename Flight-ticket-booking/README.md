@@ -1,0 +1,14 @@
+# Description
+  - Simple flight ticket booking application
+  - Design pattern of this application is MVC pattern
+  - Flights are loaded by files, when the application starts to run
+  - Book ticket by entering source and destination
+  - When book ticket should enter customer details
+  - If seats are available in flight,booking is confirmed or else booking will be in waiting list
+  - User can change the status of booking to confirm if the seats are available.
+  - User can cancel the booking
+  - A booking can have multiple number of passengers
+  - Can show PNR status
+  - View booked tickets
+  - Can search passenger details
+  - Can add flight routes
