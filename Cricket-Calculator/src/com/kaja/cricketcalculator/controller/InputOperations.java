@@ -1,4 +1,4 @@
-package controller;
+package com.kaja.cricketcalculator.controller;
 
 import java.util.ArrayList;
 import java.util.HashMap;
