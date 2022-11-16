@@ -1,4 +1,4 @@
-package model;
+package com.kaja.cricketcalculator.model;
 
 public class TeamScore {
 	private String name;
