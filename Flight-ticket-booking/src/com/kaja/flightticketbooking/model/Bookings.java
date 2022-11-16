@@ -1,4 +1,4 @@
-package model;
+package com.kaja.flightticketbooking.model;
 
 import java.util.Date;
 import java.util.ArrayList;
