@@ -1,11 +1,11 @@
-package repositary;
+package com.kaja.cricketcalculator.repositary;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import model.Batsman;
-import model.Bowler;
-import model.TeamScore;
+import com.kaja.cricketcalculator.model.Batsman;
+import com.kaja.cricketcalculator.model.Bowler;
+import com.kaja.cricketcalculator.model.TeamScore;
 
 public class CricketDatabase {
 	
