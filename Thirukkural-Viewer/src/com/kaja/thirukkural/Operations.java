@@ -1,4 +1,4 @@
-package com.thirukkural;
+package com.kaja.thirukkural;
 
 public class Operations 
 {
