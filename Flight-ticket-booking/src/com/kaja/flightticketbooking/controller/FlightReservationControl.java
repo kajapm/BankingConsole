@@ -1,15 +1,15 @@
-package controller;
+package com.kaja.flightticketbooking.controller;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Date;
-import model.Bookings;
-import model.Flight;
-import model.Passenger;
-import repositary.FlightReservationDatabase;
-import view.FlightReservationView;
+import com.kaja.flightticketbooking.model.Bookings;
+import com.kaja.flightticketbooking.model.Flight;
+import com.kaja.flightticketbooking.model.Passenger;
+import com.kaja.flightticketbooking.repositary.FlightReservationDatabase;
+import com.kaja.flightticketbooking.view.FlightReservationView;
 
 public class FlightReservationControl {
 	private FlightReservationView view;
