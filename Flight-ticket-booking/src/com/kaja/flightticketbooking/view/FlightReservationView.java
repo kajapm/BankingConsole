@@ -1,11 +1,11 @@
-package view;
+package com.kaja.flightticketbooking.view;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-import controller.FlightReservationControl;
-import model.Bookings;
-import model.Flight;
-import model.Passenger;
+import com.kaja.flightticketbooking.controller.FlightReservationControl;
+import com.kaja.flightticketbooking.model.Bookings;
+import com.kaja.flightticketbooking.model.Flight;
+import com.kaja.flightticketbooking.model.Passenger;
 
 public class FlightReservationView {
 	private String option;
